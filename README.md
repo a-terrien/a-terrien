@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**a-terrien/a-terrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a-terrien/a-terrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A few things to know about me: 
 
